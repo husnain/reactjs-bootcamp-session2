@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Hello world from Bootcamp Session 2 and Husnain ahmad</h1>
       <p>I am enjoying it</p>
+      <p>Secret is also added</p>
     </div>
   );
 }
